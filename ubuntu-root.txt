@@ -1,2 +1,0 @@
-this is ubuntu-root add
-I add debug a line
